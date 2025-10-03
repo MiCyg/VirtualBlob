@@ -7,7 +7,7 @@ This project is an natural consequence of [Adafriend](https://learn.adafruit.com
 
 
 
-![VirtualBlob Demo](images/VB_animation.gif)
+![VirtualBlob Demo](images/VB_dark.jpg)
 ---
 
 ## What is VirtualBlob?
