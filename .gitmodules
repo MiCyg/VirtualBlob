@@ -1,0 +1,9 @@
+[submodule "Software"]
+	path = Software
+	url = https://github.com/MiCyg/VirtualBlob_Software.git
+[submodule "Hardware"]
+	path = Hardware
+	url = https://github.com/MiCyg/VirtualBlob_Hardware.git
+[submodule "Mechanical"]
+	path = Mechanical
+	url = https://github.com/MiCyg/VirtualBlob_Mechanical.git
