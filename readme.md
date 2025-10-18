@@ -17,6 +17,8 @@ VirtualBlob is a playful, educational project. It contains:
 - **Light sensors** to detect surroundings
 - **Accelerometer** to sense movement and tilting
 - **Touch sensor** to user communicate
+- **Buzzer/speaker** not implemented yet
+- **Microphone** not implemented yet
 
 The blob reacts to motion: if tilted, it will crawl toward the nearest edge. The goal is to simulate both physical and behavioral responses realistically.
 
