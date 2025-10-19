@@ -5,9 +5,10 @@ Welcome to **VirtualBlob** – a small interactive creature brought to life on a
 
 This project is an natural consequence of [Adafriend](https://learn.adafruit.com/adafriend/overview), which I also built, with some minor modifications, but not well documented. Learning from that experience, I have now tried to document the project thoroughly so that it can be reproduced without issues. If you notice any inconsistencies or have questions, feel free to contact me.
 
+<p align="center">
+	<img src="images/VB_dark.jpg" alt="PoVirtualBlob Demo" width="75%" />
+</p>
 
-
-![VirtualBlob Demo](images/VB_dark.jpg)
 ---
 
 ## What is VirtualBlob?
@@ -17,10 +18,14 @@ VirtualBlob is a playful, educational project. It contains:
 - **Light sensors** to detect surroundings
 - **Accelerometer** to sense movement and tilting
 - **Touch sensor** to user communicate
-- **Buzzer/speaker** not implemented yet
-- **Microphone** not implemented yet
+- **Buzzer** to user communicate
 
 The blob reacts to motion: if tilted, it will crawl toward the nearest edge. The goal is to simulate both physical and behavioral responses realistically.
+
+<p align="center">
+	<img src="images/VB_wee.gif" alt="Pomodoro test" width="45%" />
+	<img src="images/VB_rotating.gif" alt="Break test" width="45%" />
+</p>
 
 ---
 
