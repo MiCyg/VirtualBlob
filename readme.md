@@ -20,7 +20,7 @@ VirtualBlob is a playful, educational project. It contains:
 - **Touch sensor** to user communicate
 - **Buzzer** to user communicate
 
-The blob reacts to motion: if tilted, it will crawl toward the nearest edge. The goal is to simulate both physical and behavioral responses realistically.
+The blob is a soft solid simulation with boundaries on all edges. It reacts to motion: if tilted, it will crawl toward the nearest edge. The goal is to simulate both physical and behavioral responses realistically.
 
 <p align="center">
 	<img src="images/VB_wee.gif" alt="Pomodoro test" width="45%" />
