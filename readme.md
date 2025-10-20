@@ -6,7 +6,7 @@ Welcome to **VirtualBlob** – a small interactive creature brought to life on a
 This project is an natural consequence of [Adafriend](https://learn.adafruit.com/adafriend/overview), which I also built, with some minor modifications, but not well documented. Learning from that experience, I have now tried to document the project thoroughly so that it can be reproduced without issues. If you notice any inconsistencies or have questions, feel free to contact me.
 
 <p align="center">
-	<img src="images/VB_dark.jpg" alt="PoVirtualBlob Demo" width="75%" />
+	<img src="images/VB_dark.jpg" width="75%" />
 </p>
 
 ---
@@ -23,8 +23,8 @@ VirtualBlob is a playful, educational project. It contains:
 The blob is a soft solid simulation with boundaries on all edges. It reacts to motion: if tilted, it will crawl toward the nearest edge. The goal is to simulate both physical and behavioral responses realistically.
 
 <p align="center">
-	<img src="images/VB_wee.gif" alt="Pomodoro test" width="45%" />
-	<img src="images/VB_rotating.gif" alt="Break test" width="45%" />
+	<img src="images/VB_wee.gif" width="45%" />
+	<img src="images/VB_rotating.gif" width="45%" />
 </p>
 
 ---
